@@ -1,9 +1,21 @@
+Alle Heroku Tutorials durchprobieren
 LinkedIn Account erstellen
 LinkedIn Account verlinken
 Instagram Account erstellen
 Instagram Account verlinken
 Email erstellen
 Email verlinken
+Resume erstellen (=Eine Art Lebenslauf)
+Inhalte überarbeiten und verkürzen
+Spinnennetzgrafik für About Me erstellen
+Spinnennetzgrafik für Pitch kreieren
+Deutsche eingeklammerte Wörter im Text übersetzen
+Hintergrund für main-teil von body suchen
 CSS-style
 Hover-Classes
 Border um MM-Logo in Footer
+Semantik bei Texten durch
+Elemente hinzufügen und passende Classes, zB für kursiv oder fett-gedruckt
+Auch <br> in Texte einfügen
+Farbverlauf im header (schwarz zu blau oder ähnliches)
+Färbung für Footer
