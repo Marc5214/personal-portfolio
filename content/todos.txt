@@ -4,3 +4,6 @@ Instagram Account erstellen
 Instagram Account verlinken
 Email erstellen
 Email verlinken
+CSS-style
+Hover-Classes
+Border um MM-Logo in Footer
