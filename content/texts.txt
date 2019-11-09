@@ -1,0 +1,105 @@
+Shortcut for html-Preview: strg-shift-h
+Home:
+My pitch:
+Hintergrundbild schiebt sich hinein, dazu kommen von allen Seiten Sechsecke herangeschossen, welche über dem Hintergrund bleiben, diese Bilden ein Netz über dem Hintergrund,
+Dazu wird Text bei dem Rechtecken eingeblendet, welcher ebenfalls wie die Sechsecke geflogen kommt, und mich sehr kurz und knapp beschreibt
+
+Highlights: (keine Highlights in Home!)
+
+Scrollen:
+Work with me
+Ausschnitt aus My Vision
+ausschnitt aus Work
+
+My Vision:
+"Believe you can and you're halfway there." -Autor suchen
+Darstellung: Goals und Visionen untereinander darstellen, erster Block: Visionen, zweiter Block: Untervisionen mit jeweilgen Goals erklärt, Highlights: meine Superpower
+Highlights:
+If I decide to do anything, no matter how demanding it might be for my age, how many time it might take or how difficult it is for one single person, I am simply going to make it.
+The point is, I teached myself to build that kind of an unbreakable mindset helping you to push through it, whatever it takes. I am motivated, I never give up.
+Further, my motivation is contagious, I'm recognizing again and again that people next to me do join the process, it's like a domino.
+
+"Math is the queen of science"
+You need to know, I am really into mathematics. Currently, I am learning about contents from an intermediate math study courses, while I'm three and a half years away from graduation.
+Same happens to programming.
+So I was participating in a math competition on a national level, and there were nearly a dozen of students from my school participating with me, as they got to know how much fun I had doing this.
+
+Visionen:
+"Sometimes I imagine living in the future, around a year like 2,250. An average lifespan is like a few hundred years, you got more time spending with your nexts. The humanity is living peacefully, spreading to multiple planets in the whole galaxy. I see myself flying in a spaceship, and looking to the stars, far away, but even so close. It feels like I am an extremly small part of that bg system, as it doesn't matter what we do and who we are, but my experience says it doesn't. I know I have the possibility to make a change in the world, no matter how big. I know it, becuase I already did."
+
+This sounds like science fiction, but, hey, why shouldn't be we looking forward a scientific future where all those big problems are solved?
+
+My goals are participating in the development of sustainable healthcare products, multiplying the average lifespan of a human, flying through space and see the colonization of the mars with my own eyes, not just in movies.
+I want to manage leading companies, learn more about mathematics, use artificial intelligence to make our life easier and revolutionize the education of every person, every child on this planet, because I truly believe, education is for everyone.
+
+About Me:
+"Age is just a number, so money and grades are."
+Dargestellt als Spinnennetzgrafik:
+Education: Visitting 10th grade of a gymnasium in Germany
+Started programming at the age of 10
+Started growing Instagram accounts at the age of 13
+Reading one book every week (no novels!)
+Learned about building an online business
+Life saver and competition swimmer
+Triathlete
+Interested in biology, especially genetics and anti-aging (Forschung)
+(Hochbegabter) mathematics-freak and really into programming
+Developing next level chatbots
+MM-Logo einbauen, außerdem Triathlon-Icons und mehr Branding
+Highlight: Why I really started programming
+(Okay, please don't laugh at me for that story ;-)
+As mentioned in my bio, I was a bit addicted to a mobile game called "Clash of Clans". I played that game a few hours every day, and I was a really good gamer. You need to know, the game consists of fighting other players and building an own clan. That's when programming came to my mind. I wanted to create a website for my clan, being able to organize and manage it better and find more amazing other gamers. Finally, I figured out, how to build a website and even programmed it, but (honestly, thanks to my parents), it never launched. However, I even build an application modelling the algorithm of the game, telling me which opponent I should battle with, which to skip, which buildings to upgrade and so on. I became an amazing player.
+(Glücklicherweise), I got rid of that addiction by time. At one moment, sitting in my bed and losing a battle and 3.30am, I felt like I had (keine Lust mehr) playing that game.
+But, the plus point was, I started programming.
+Bio:
+2004: (Geburt)
+2010 to 2014: Visitted elemtary school
+2013: Got my first laptop as a brithday gift
+2013, later: Started writing short novels, learned (10 finger system)
+2013, November: Wrote my first HTML-"Program"
+2014, January: Wrote my first Java-Application simulating an algorithm to perform better in an online game
+2014: Got a digital camera as another birthday gift, learned creating awesome photos and films
+2014 to right now: Visitting gymnasium in Germany
+2014, 2015: Got a bit addicted of those online-games
+2015, later: Started doing swimming on a (häufiger) basis
+2016, March: Started my first Instagram-account, publishing my own footage
+2016, later: Learned editing pictures and movies professionally
+2016, September: Finally got rid of any gaming addictions through the help of sport & deinstalled online games (damn, I was playing as a top 50 player in Germany for a few month)
+2016, November: Created an own Instagram botting tool (stupid idea!) and played around with several APIs
+2017, May: Started more Instagram accounts, figured out how to build a bigger following, published better and better photos
+2017, September: First won a bigger swimming competition
+2017, 26th of November (I remember that date exactly): My computer got hacked, I lost all my Instagram accounts (außer einem) and previously created programs, simply every pice of data on my computer
+2017, after hacking attack: Started over again, took a break of Instagram, created a back-up of my computer (if you read that, make a back-up now!)
+2017, December: Learned programming on a new level: Created own firewalls and security-applications, used public APIs & programmed way better applications, learned about machine learning, databank-management and Big-Data-Science, created AI-algorithms
+2018, beginning: Wrote a 500-page novel (just because I always wanted to do that)
+2018, spring: Started becoming a Triathlete
+2018, spring too: Started studying more and more about biology, epigenetics and anti-aging
+2018, April: Started new Instagram accounts, this time on a profrssional, business level
+2018, June: Started reading one book per week, learned about (Persönlichkeitsentwicklung), gained more commitment in what I loved doing
+2018, August: Started managing my time better, now learning 10 hours a week about programming
+2019, March: Started another Instagram-account, started coonecting with same-minded-people (very important step!)
+2019, May: Won another math-competition
+2019, August: Finally build that "whatever it takes, I will never give up and give my everything mindset"
+2019, November (now writing this): Currently making insanly progress on every area of my life
+
+Work with me:
+Currently, I am 15 years old. That means, I am not able to deal with bigger (Mengen) of money.
+Frankly speaking, I would really like to offer a building-whatever-you-like service, but I could accept all the money.
+But anyway, I've found different solutions with other people: They gave me shoutouts, I created them content. Or we both exchanged knowledge.
+The purpose of this online-(Präsenz) is not making as much money as possible, it's creating valuable connections.
+I'd really like to get in touch with YOU, no matter if there are any business-thoughts or not.
+My goal is to connect with people thinking like me. To exchange knowledge and help each other.
+I do help you creating websites or whatever comes to your mind too, if you want that.
+Just feel free to contact me, no matter why, contact information are on the right or in the footer below.
+Highlight:
+How to contact me:
+DM me on one of my Instagram pages (IG-Logo als Link)
+DM me on my personal Instagram account (IG-Logo als Link)
+Shoot me a message via Email (Email-Link)
+Contact me via LinkedIn (LinkedIn Link)
+I'd love to read your message!
+
+Get Resume: (als Bild implementiert)
+(Obwohl) I am not 18 yet and not allowed to make "big deals", I'd like to (bereitstellen) you a resume showing how we could help each other.
+Simply right click the image and choose "save image".
+"Here goes the resume"
